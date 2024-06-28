@@ -1,0 +1,25 @@
+/*Selector por primer nivel de hijos */
+
+
+.admin > div >div{
+    border: 2px solid greenyellow;
+    background-color: var(--naranja);
+    text-align: center;
+    color: var(--blanco);
+    padding: 5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

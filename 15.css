@@ -1,0 +1,13 @@
+.primer-letra::first-letter{
+font-size: 10rem;
+color: #c1121f;
+}
+
+
+.primer-linea::first-line{
+    font-size: 12rem ;
+    color: #31572c;
+}
+
+
+

@@ -1,0 +1,17 @@
+/* Selector de Atributo ok ok */
+a[href $=".com"]{
+    color:  #f77f00;
+
+}
+
+
+
+#telefono{
+    background-color: greenyellow;
+    color: blue;
+    border: 5px solid;
+}
+
+
+
+

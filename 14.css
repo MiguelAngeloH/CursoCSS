@@ -1,0 +1,15 @@
+/* <h2>14.- Seleccionar todos los elementos excepto uno o unos </h2> */
+.heading, 
+.descripcion,
+.oferta{
+    color: #0f4c5c;
+} 
+ 
+selecciona todos a exepto texto ok
+p:not(.texto){
+    color: #0f4c5c;
+} 
+/* como excluir multiples elementos */
+p:not(.texto):not(.oferta){
+    color: #e36414;
+}

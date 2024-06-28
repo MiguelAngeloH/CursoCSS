@@ -1,0 +1,23 @@
+/* Elemento en especifico */
+/* 
+ul li:nth-child(1),
+ul li:nth-child(0),
+ul li:nth-child(5) */
+/* ul li:nth-child(odd){ */
+/* ul li:nth-child(4n  + 1){ */
+/* ul li:nth-child(even){ */
+    ul li:nth-child(4n + 4){
+border: 2px solid #00b4d8;
+border: 2px solid #ffc300;
+ 
+}
+
+
+/* 2n + 1 */
+/* 
+2(0) + 1 =1
+2(1) + 1 =3
+2(2) + 1 =5
+2(3) + 1 =7
+
+*/
